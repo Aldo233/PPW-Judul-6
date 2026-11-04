@@ -11,7 +11,7 @@ const tabelBody = document.getElementById('tabel-body-mahasiswa');
 const inputSearch = document.getElementById('input-search');
 const totalBadge = document.getElementById('total-mahasiswa-badge');
 const totalInfo = document.getElementById('total-mahasiswa-info')
-const formTambah = document.getElementById('total-tambah-mahasiswa')
+const formTambah = document.getElementById('form-tambah-mahasiswa')
 const alertBox = document.getElementById('alert-box')
 
 
